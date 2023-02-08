@@ -1,0 +1,15 @@
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\bin\Debug\net6.0\HarfOyunu.exe
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\bin\Debug\net6.0\HarfOyunu.deps.json
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\bin\Debug\net6.0\HarfOyunu.runtimeconfig.json
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\bin\Debug\net6.0\HarfOyunu.dll
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\bin\Debug\net6.0\HarfOyunu.pdb
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\HarfOyunu.csproj.AssemblyReference.cache
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\HarfOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\HarfOyunu.AssemblyInfoInputs.cache
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\HarfOyunu.AssemblyInfo.cs
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\HarfOyunu.csproj.CoreCompileInputs.cache
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\HarfOyunu.dll
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\refint\HarfOyunu.dll
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\HarfOyunu.pdb
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\HarfOyunu.genruntimeconfig.cache
+C:\Users\hazar\Desktop\C#\HarfOyunu\HarfOyunu\obj\Debug\net6.0\ref\HarfOyunu.dll
